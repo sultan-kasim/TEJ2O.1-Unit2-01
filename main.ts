@@ -2,7 +2,7 @@
  *
  * Created by: Sultan
  * Created on: Sep 2025
- * This program shows Hello Sultan
+ * This program shows Hello Sultan!
 */
 
 basic.showString('Hello, Sultan!')
