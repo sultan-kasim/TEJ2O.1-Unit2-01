@@ -1,8 +1,8 @@
-/* Copyright (c) 2020 MTHS All rights reserved
+/* Copyright (c) 2025 MTHS All rights reserved
  *
- * Created by: XXX
- * Created on: Sep 2020
- * This program ...
+ * Created by: Sultan
+ * Created on: Sep 2025
+ * This program say Hello Sultan
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Sultan!')
